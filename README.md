@@ -1,9 +1,16 @@
 # Airframe — reconstructed source
 
 **Airframe** by **PRIME**, the winning PC intro of Assembly '94. 386 real mode,
-VGA, music on the Gravis Ultrasound only. The credits name Jussi Lahdenniemi and
-Lasse Moisio. The end text dedicates it to a member of PRIME who died in a
-traffic accident the winter before.
+VGA, music on the Gravis Ultrasound only. The end text dedicates it to a member
+of PRIME who died in a traffic accident the winter before.
+
+Credits:
+
+- [Inter](https://demozoo.org/sceners/8153/): code
+- [JayJay](https://demozoo.org/sceners/8155/): code
+- [Alchemist](https://demozoo.org/sceners/8154/): graphics
+- [Hazard](https://demozoo.org/sceners/8156/): music
+- [Matrix](https://demozoo.org/sceners/8152/): organization
 
 This repository rebuilds the intro from its original executable as NASM source
 that assembles back into a working `AIRFRAME.EXE`.
